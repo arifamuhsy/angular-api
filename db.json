@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Angular Project 1",
+      "day": "14 Maret 2022",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Angular Project 2",
+      "day": "15 Maret 2022",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
